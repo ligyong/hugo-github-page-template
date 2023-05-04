@@ -1,0 +1,5 @@
+baseURL = 'https://ligyong.giyhub.io'
+languageCode = 'zh-CN'
+title = "Ligyong's Site"
+
+theme="gohugo-theme-ananke"
